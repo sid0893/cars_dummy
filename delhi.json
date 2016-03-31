@@ -6,7 +6,7 @@
 					"taxiTypes":[
 						{
 							"typeName" : "Micro",
-							"costPerDay" : 15.06			//in dollars
+							"costPerDay" : 15.06
 						},
 						{
 							"typeName" : "Mini",
