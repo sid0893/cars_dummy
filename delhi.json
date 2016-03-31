@@ -1,0 +1,63 @@
+{
+			"cityName" : "Delhi",
+			"taxiServicesAvailable" : [
+				{
+					"compName": "OlaCabs",
+					"taxiTypes":[
+						{
+							"typeName" : "Micro",
+							"costPerDay" : 15.06			//in dollars
+						},
+						{
+							"typeName" : "Mini",
+							"costPerDay" : 19.58
+						},
+						{
+							"typeName" : "Sedan",
+							"costPerDay" : 23
+						},
+						{
+							"typeName" : "Prime",
+							"costPerDay" : 33			
+						}
+					]
+				},
+
+				{
+					"compName": "Uber",
+					"taxiTypes":[
+						{
+							"typeName" : "uberGO",
+							"costPerDay" : 13.06
+						},
+						{
+							"typeName" : "uberX",
+							"costPerDay" : 15.06
+						},
+						{
+							"typeName" : "uberBlack",
+							"costPerDay" : 25
+						},
+						{
+							"typeName" : "uberSUV",
+							"costPerDay" : 37
+						}
+					]
+				},
+
+				{
+					"compName": "MeruCabs",
+					"taxiTypes":[
+						{
+							"typeName" : "MeruCab",
+							"costPerDay" : 18
+						},
+						{
+							"typeName" : "MeruFlexi",
+							"costPerDay" : 25
+						}
+					]
+				}
+
+			]
+}

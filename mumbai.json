@@ -1,0 +1,65 @@
+
+
+		{
+			"cityName" : "Mumbai",
+			"taxiServicesAvailable" : [
+				{
+					"compName": "OlaCabs",
+					"taxiTypes":[
+						{
+							"typeName" : "Micro",
+							"costPerDay" : 17			//in dollars
+						},
+						{
+							"typeName" : "Mini",
+							"costPerDay" : 21
+						},
+						{
+							"typeName" : "Sedan",
+							"costPerDay" : 25
+						},
+						{
+							"typeName" : "Prime",
+							"costPerDay" : 35			
+						}
+					]
+				},
+
+				{
+					"compName": "Uber",
+					"taxiTypes":[
+						{
+							"typeName" : "uberGO",
+							"costPerDay" : 15
+						},
+						{
+							"typeName" : "uberX",
+							"costPerDay" : 17
+						},
+						{
+							"typeName" : "uberBlack",
+							"costPerDay" : 27
+						},
+						{
+							"typeName" : "uberSUV",
+							"costPerDay" : 40
+						}
+					]
+				},
+
+				{
+					"compName": "MeruCabs",
+					"taxiTypes":[
+						{
+							"typeName" : "MeruCab",
+							"costPerDay" : 20
+						},
+						{
+							"typeName" : "MeruFlexi",
+							"costPerDay" : 28
+						}
+					]
+				}
+
+			]
+		}
